@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class Hola
-  def self.hi
+  def self.greet
     puts "Hello world!"
   end
 end
